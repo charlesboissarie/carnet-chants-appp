@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <main className="p-8 text-center">
+      <h1 className="text-4xl font-bold mb-4">🎶 Les Castafiores du Folklore</h1>
+      <p className="text-lg text-gray-700">Bienvenue dans l’application des 1000 plus grands chants de ripaille, de veillée et de tradition française.</p>
+    </main>
+  );
+}
